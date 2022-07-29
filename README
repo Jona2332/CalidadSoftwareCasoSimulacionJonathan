@@ -1,0 +1,21 @@
+Realizado por Jonathan Anchía Rodríguez
+
+Pruebas con la herramienta hostedscan: Es utilizado para pruebas de seguridad de riesgo orientado a sitios webs, servidores y computadoras, permite el manejo y reportes de factores de seguridad de redes que pueda afectar los equipos o sitios en la nube.
+Existen tres tipos de escaneos y análisis de red:
+OpenVAS: este es un análisis de vulnerabilidad para la ejecución de pruebas en interfaces web y que posee una alta capacidad de configuración personalizable y es amigable con el usuario:
+OWASP ZAP: En sus siglas en inglés Zed Attack Proxy, es un método de escaneo de seguridad dónde se comprueba la capacidad de penetración en los sitios o equipos en cuestión.
+NMAP: El network map o mapa de red, permite obtener un análisis mejor establecido en términos de ping, detección de OS y tipos de versiones así como escaneo y análisis de puertos.
+ 
+Para la realización de un nuevo escaneo de red y seguridad se siguen los siguientes pasos:
+Seleccionar la opción “New Scan”
+
+Seleccionar las casillas de las opciones de escaneo de redes que se quiera realizar:
+
+Seleccionar el host o sitio web que se desea analizar:
+
+Y finalmente seleccionamos Submit:
+
+Al finalizar tendremos tres opciones de reportes, ya sea en html, pdf o json
+
+Así luce el reporte final de hosting:https://api.hostedscan.com/scans/results/62e422a88667d20040f7859d
+
